@@ -1,3 +1,9 @@
+Run this command after setting up.
+
+composer require league/flysystem-aws-s3-v3
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
